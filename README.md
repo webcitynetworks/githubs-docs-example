@@ -67,7 +67,7 @@ This is not to be confused with taking a photo with your phone.
 
 ***DO THIS INSTEAD***
 
-![Screenshot example ](assets/screen-shot.png)
+![Screenshot example ](assets/screenshot.png)
 
 Taking screenshots on both macOS and Windows is relatively simple, and both operating systems offer built-in tools to capture screenshots. Here's how to do it on each platform:
 
