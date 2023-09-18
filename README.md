@@ -57,7 +57,7 @@ NameError: name 'undefined_variable' is not defined
 
 ## Step 2 - How to take Screenshots
 
-A screen short is when you capture a part of your screen from your la[top or desktop.
+A screen short is when you capture a part of your screen from your laptop or desktop.
 
 This is not to be confused with taking a photo with your phone.
 
