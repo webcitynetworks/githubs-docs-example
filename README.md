@@ -24,9 +24,6 @@ print(f"The factorial of {number} is {result}")
 
 ```
 
-![keyboard-backtick](https://github.com/webcitynetworks/githubs-docs-example/assets/5739991/b2987f4d-de1d-4423-9cde-3a742925af2a)
-
-
 - When you can you should attempt to apply syntax highlighting to your codeblocks 
 
 ```python
@@ -47,7 +44,7 @@ print(f"The factorial of {number} is {result}")
 - It should appear next to letter "Z" key on the keyboard.
 - But may vary based on your keyboard.
 
-<img with="200px" src="/assests/keyboard-backtick.jpg">
+<img with="200px" src="assests/keyboard-backtick.jpg" />
 
 Good cloud Engineers use codeblocks for both Code and Errors that appear in the console.
 
@@ -63,6 +60,8 @@ NameError: name 'undefined_variable' is not defined
 A screen short is when you capture a part of your screen from your la[top or desktop.
 
 This is not to be confused with taking a photo with your phone.
+
+![A photo with your phone ](assets/phone-photo.jpg)
 
 ***DON'T DO THIS***
 
@@ -100,7 +99,7 @@ Github extends the functionality of markdown tables to provide more alignment an
 - It should appear above "Right Shift" key on the keyboard.
 - But may vary based on your keyboard.
 
-![Photo of the pipe character on the keyboard](/assets/key-pipe.jpg)
+![Photo of the pipe character on the keyboard](assets/key-pipe.jpg)
 
 ## External References
 
