@@ -55,6 +55,12 @@ NameError: name 'undefined_variable' is not defined
 ```
 > Here is an example of using a codeblock for an error that appears in bash.
 
+When you can always provide a codeblock instead of a screenshot.
+If you need to take a screenshot makesure it is not a photo from your phone
+
+> There are certain cases where its okay to take photos with your phone. This is when you are showing something like a keyboard, which does not appear on a computer screen. 
+If it render on your computer screen it should be a screenshot. 
+
 ## Step 2 - How to take Screenshots
 
 A screen short is when you capture a part of your screen from your laptop or desktop.
