@@ -43,9 +43,9 @@ print(f"The factorial of {number} is {result}")
 
 ```
 
-- Make note of where the back-tick charachter keyboard key is located.
+- Make note of where the back-tick character keyboard key is located.
 - It should appear next to letter "Z" key on the keyboard.
-- It may very based on your keyboard.
+- But may vary based on your keyboard.
 
 <img with="200px" src="/assests/keyboard-backtick.jpg">
 
@@ -95,6 +95,10 @@ You can use the following markdown format to create tables:
 ```
 
 Github extends the functionality of markdown tables to provide more alignment and table cell formatting options. [<sup>[2]</sup>](#external-references)
+
+- Make note of where the pipe character keyboard key is located.
+- It should appear above "Right Shift" key on the keyboard.
+- But may vary based on your keyboard.
 
 ![Photo of the pipe character on the keyboard](assets/key-pipe.jpg)
 
