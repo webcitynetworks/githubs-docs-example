@@ -44,9 +44,10 @@ print(f"The factorial of {number} is {result}")
 ```
 
 - Make note of where the back-tick charachter keyboard key is located.
-- It should appear next to letter "Z" key on the keyboard. 
+- It should appear next to letter "Z" key on the keyboard.
+- It may very based on your keyboard.
 
-<img>
+<img with="200px" src="/assests/keyboard-backtick.jpg">
 
 Good cloud Engineers use codeblocks for both Code and Errors that appear in the console.
 
