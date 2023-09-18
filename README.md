@@ -100,7 +100,7 @@ Github extends the functionality of markdown tables to provide more alignment an
 - It should appear above "Right Shift" key on the keyboard.
 - But may vary based on your keyboard.
 
-![Photo of the pipe character on the keyboard](assets/key-pipe.jpg)
+![Photo of the pipe character on the keyboard](/assets/key-pipe.jpg)
 
 ## External References
 
