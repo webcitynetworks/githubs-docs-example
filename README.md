@@ -108,7 +108,7 @@ Keep in mind that the specific key combinations and features might vary slightly
 
 ## Step 3 - Use Github Flavoured Markdown Task Lists
 
-Github extends Markdown to have a list where you can check off items. [<sup>[1]</sup>](#external-references)
+Github extends Markdown to have a list where you can check off items[^1].
 
 - [x] Finish Step 1
 - [ ] Finish Step 2
@@ -134,7 +134,7 @@ You can use the following markdown format to create tables:
 | Cloud | `:cloud_with_lightning:` | :cloud_with_lightning: |
 ```
  
-Github extends the functionality of markdown tables to provide more alignment and table cell formatting options. [<sup>[2]</sup>](#external-references)
+Github extends the functionality of markdown tables to provide more alignment and table cell formatting options[^2].
 
 - Make note of where the pipe character keyboard key is located.
 - It should appear above "Right Shift" key on the keyboard.
@@ -148,9 +148,8 @@ Github extends the functionality of markdown tables to provide more alignment an
 
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-- [BFM - Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)<sup>1</sup>
-
 - [BFM - Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/)
 
-- [BFM - Table (with extension) Sheet](https://github.github.com/gfm/#tables-extension-)<sup>2</sup>
+[^1]: [BFM - Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)
+[^2]: [BFM - Table (with extension) Sheet](https://github.github.com/gfm/#tables-extension-)
 
