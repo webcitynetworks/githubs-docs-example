@@ -44,7 +44,7 @@ print(f"The factorial of {number} is {result}")
 - It should appear next to letter "Z" key on the keyboard.
 - But may vary based on your keyboard.
 
-<img with="200px" src="assests/keyboard-backtick.jpg" />
+<img with="200px" src="/assests/keyboard-backtick.jpg" />
 
 Good cloud Engineers use codeblocks for both Code and Errors that appear in the console.
 
@@ -61,9 +61,10 @@ A screen short is when you capture a part of your screen from your laptop or des
 
 This is not to be confused with taking a photo with your phone.
 
+***DON'T DO THIS***
+
 ![A photo with your phone ](assets/phone-photo.jpg)
 
-***DON'T DO THIS***
 
 ## Step 3 - Use Github Flavoured Markdown Task Lists
 
