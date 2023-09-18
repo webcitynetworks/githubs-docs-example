@@ -92,7 +92,7 @@ You can use the following markdown format to create tables:
 | Cloud | `:cloud:` | :cloud: |
 | Cloud | `:cloud_with_lightning:` | :cloud_with_lightning: |
 ```
-
+ 
 Github extends the functionality of markdown tables to provide more alignment and table cell formatting options. [<sup>[2]</sup>](#external-references)
 
 - Make note of where the pipe character keyboard key is located.
