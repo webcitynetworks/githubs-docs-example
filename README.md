@@ -44,7 +44,7 @@ print(f"The factorial of {number} is {result}")
 - It should appear next to letter "Z" key on the keyboard.
 - But may vary based on your keyboard.
 
-<img with="200px" src="/assests/keyboard-backtick.jpg" />
+<img width="200px" src="/assets/keyboard-backtick.jpg" />
 
 Good cloud Engineers use codeblocks for both Code and Errors that appear in the console.
 
