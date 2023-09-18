@@ -65,6 +65,36 @@ This is not to be confused with taking a photo with your phone.
 
 ![A photo with your phone ](assets/phone-photo.jpg)
 
+Taking screenshots on both macOS and Windows is relatively simple, and both operating systems offer built-in tools to capture screenshots. Here's how to do it on each platform:
+
+### On macOS:
+
+1. **Capture Entire Screen**:
+   - Press `Command (⌘) + Shift + 3`. The screenshot will be saved to your desktop by default.
+
+2. **Capture a Selected Portion of the Screen**:
+   - Press `Command (⌘) + Shift + 4`. You'll see a crosshair cursor. Click and drag to select the area you want to capture. The screenshot will be saved to your desktop.
+
+3. **Capture a Specific Window**:
+   - Press `Command (⌘) + Shift + 4`, followed by the `Spacebar`. Your cursor will turn into a camera icon. Click on the window you want to capture. The screenshot will be saved to your desktop.
+
+### On Windows:
+
+1. **Capture Entire Screen**:
+   - Press `PrtScn` (Print Screen) on your keyboard. This will capture the entire screen and copy it to your clipboard.
+
+2. **Capture Entire Screen (Windows 10 and later)**:
+   - Press `Windows + Shift + S`. This will dim the screen, and you can select the area you want to capture. The screenshot will be copied to your clipboard.
+
+3. **Capture a Specific Window**:
+   - Press `Alt + PrtScn`. This will capture the active window and copy it to your clipboard.
+
+4. **Capture a Specific Window (Windows 10 and later)**:
+   - Press `Windows + Shift + S`, then select "Snip & Sketch" or "Snip Now" to capture a specific window or region. The screenshot will be copied to your clipboard.
+
+After taking a screenshot on both macOS and Windows, you can paste it into an image editing program (like Paint or Preview) or directly into a document or image editing application.
+
+Keep in mind that the specific key combinations and features might vary slightly depending on your version of macOS or Windows, so it's a good idea to check your system's documentation or online resources for any variations.
 
 ## Step 3 - Use Github Flavoured Markdown Task Lists
 
