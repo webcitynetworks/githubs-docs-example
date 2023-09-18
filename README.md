@@ -142,7 +142,7 @@ Github extends the functionality of markdown tables to provide more alignment an
 
 ![Photo of the pipe character on the keyboard](assets/key-pipe.jpg)
 
-![Hiden Garden scret window](secret-garden/hidden-garden.md)
+![Hiden Garden scret window](secret-garden/hidden-garden.md) 
 
 ## External References
 
